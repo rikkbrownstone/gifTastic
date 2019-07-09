@@ -1,0 +1,14 @@
+body{
+    background-image: url("../images/theater2.jpg");
+    background-size: 1400px 3000px;
+    background-repeat: no-repeat;
+
+}
+
+
+button,
+div,
+form,
+input {
+      margin: 10px;
+    }
